@@ -1,0 +1,5 @@
+# PLACEHOLDER DOMAIN — update the Sitemap line below once glmlandscapes.com (or final domain) is confirmed.
+User-agent: *
+Allow: /
+
+Sitemap: https://www.glmlandscapes.com/sitemap.xml
